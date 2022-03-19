@@ -7,7 +7,7 @@ return {
         [ "id" ] = 1,
         [ "item_id" ] = 101005,
         [ "name" ] = "月卡",
-        [ "price" ] = 30,
+        [ "price" ] = 128,
         [ "type" ] = 1,
         [ "validity_period_day" ] = 30,
     },
@@ -19,7 +19,7 @@ return {
         [ "id" ] = 2,
         [ "item_id" ] = 101005,
         [ "name" ] = "终身卡",
-        [ "price" ] = 288,
+        [ "price" ] = 388,
         [ "type" ] = 2,
     },
 }
