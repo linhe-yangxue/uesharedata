@@ -24,6 +24,6 @@ return {
             [ 2 ] = "活动兑换",
         },
         [ "exchange_bg" ] = 330001,
-        [ "open_timestamp" ] = 1647360000,
+        [ "open_timestamp" ] = 1647331200,
     },
 }
