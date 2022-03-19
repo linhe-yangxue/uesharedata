@@ -1570,6 +1570,15 @@ return {
         id = 23032,
         icon = 80024,
     },
+    [ 23033 ] = {
+        name = [==[艾米时装1]==],
+        spoil_pos_y = -836.0,
+        res_path = [==[Unit/Lover/lover_aimi_2/prefab_spine_uigirl_bigappointment1901/prefab_spine_uigirl_bigappointment1901_pb]==],
+        ch_key = [==[艾米时装1]==],
+        default_anim = [==[idle]==],
+        id = 23033,
+        icon = 80016,
+    },
     [ 23041 ] = {
         name = [==[Rose]==],
         oriented = 0,

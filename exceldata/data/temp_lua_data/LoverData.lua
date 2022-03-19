@@ -200,7 +200,7 @@ return {
     },
     [ 21051 ] = {
         introduce_text = [==[lang-聪明的赌场女荷官，与你青梅竹马，对你一心一意。]==],
-        fashion = {303003,303004,},
+        fashion = {303001,},
         sex = 2,
         spoil_model_id = 21052,
         spell_list = {1,6,7,12,37,40,},
@@ -512,7 +512,7 @@ return {
     },
     [ 23061 ] = {
         introduce_text = [==[lang-俏皮活泼的女仆，管家雇佣她为你的私人贴身女佣，照顾你的日常饮食起居。]==],
-        fashion = {303001,303002,},
+        fashion = {303001,},
         sex = 2,
         spoil_model_id = 23062,
         spell_list = {25,30,31,36,39,42,},

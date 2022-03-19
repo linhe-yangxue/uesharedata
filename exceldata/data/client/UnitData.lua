@@ -1602,6 +1602,15 @@ return {
         [ "icon" ] = 80024,
         [ "spoil_pos_y" ] = -1344,
     },
+    [ 23033 ] = {
+        [ "id" ] = 23033,
+        [ "ch_key" ] = "艾米时装1",
+        [ "name" ] = "艾米时装1",
+        [ "res_path" ] = "Unit/Lover/lover_aimi_2/prefab_spine_uigirl_bigappointment1901/prefab_spine_uigirl_bigappointment1901_pb",
+        [ "default_anim" ] = "idle",
+        [ "icon" ] = 80016,
+        [ "spoil_pos_y" ] = -836,
+    },
     [ 23041 ] = {
         [ "id" ] = 23041,
         [ "ch_key" ] = "Rose",

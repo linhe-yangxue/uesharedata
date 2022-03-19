@@ -1602,6 +1602,15 @@ return {
         [ "res_path" ] = "Unit/Lover/lover_ailisizuozi/ailisizuozi_pb",
         [ "spoil_pos_y" ] = -1344,
     },
+    [ 23033 ] = {
+        [ "ch_key" ] = "艾米时装1",
+        [ "default_anim" ] = "idle",
+        [ "icon" ] = 80016,
+        [ "id" ] = 23033,
+        [ "name" ] = "艾米时装1",
+        [ "res_path" ] = "Unit/Lover/lover_aimi_2/prefab_spine_uigirl_bigappointment1901/prefab_spine_uigirl_bigappointment1901_pb",
+        [ "spoil_pos_y" ] = -836,
+    },
     [ 23041 ] = {
         [ "ch_key" ] = "Rose",
         [ "default_anim" ] = "animation",
